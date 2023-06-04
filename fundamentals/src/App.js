@@ -1,10 +1,8 @@
-function App (){
-    return(
-        <div>
-            helloo Appp 
-        </div>
+export const App = () => {
+    return (
+        < >
+            app
+        </ >
+
     )
 }
-
-
-export default App;
