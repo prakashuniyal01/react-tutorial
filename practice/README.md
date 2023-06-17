@@ -1,7 +1,7 @@
 # js code 
 
-```
-console.log(hello uniyal)
+```javascript 
+console.log("hello uniyal")
 
 
 ```
